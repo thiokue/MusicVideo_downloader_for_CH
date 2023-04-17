@@ -25,5 +25,3 @@ def file_downloader(ch_songs_dir):
                 logger.error(e)
         else:
             logger.error(f'File already exists! at {chk_path}')
-
-file_downloader(r'C:\Users\Thiago\Documents\Clone Hero\Songs')
