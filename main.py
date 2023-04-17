@@ -20,3 +20,5 @@ def file_downloader(ch_songs_dir):
             sleep(1)
         except Exception as e:
             logger.error(e)
+
+file_downloader(r'C:\Users\Thiago\Documents\Clone Hero\Songs')
