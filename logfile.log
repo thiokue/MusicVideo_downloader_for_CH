@@ -1,0 +1,72 @@
+2023-04-17 17:36:33.006 | INFO     | __main__:file_downloader:18 - Downloading mv for 10. Blade of the Ruined King
+2023-04-17 17:36:40.715 | SUCCESS  | __main__:file_downloader:21 - Video downloaded!
+2023-04-17 17:36:42.489 | INFO     | __main__:file_downloader:18 - Downloading mv for 3. Tear of the Goddess
+2023-04-17 17:36:43.650 | ERROR    | __main__:file_downloader:24 - 'streamingData'
+2023-04-17 17:36:44.391 | INFO     | __main__:file_downloader:18 - Downloading mv for 4. Infinity Edge
+2023-04-17 17:36:56.606 | SUCCESS  | __main__:file_downloader:21 - Video downloaded!
+2023-04-17 17:36:58.488 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\CHON - Can_t Wait\video.mp4
+2023-04-17 17:36:59.199 | INFO     | __main__:file_downloader:18 - Downloading mv for CHON - Splash (XEntombmentX)
+2023-04-17 17:37:01.724 | SUCCESS  | __main__:file_downloader:21 - Video downloaded!
+2023-04-17 17:37:03.548 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Don_t Be A Jerk (It_s Christmas) (Beta)\video.mp4
+2023-04-17 17:37:04.265 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Ichika - Bloom\video.mp4
+2023-04-17 17:37:05.117 | INFO     | __main__:file_downloader:18 - Downloading mv for Pentakill - Dead Man_s Plate
+2023-04-17 17:37:09.460 | SUCCESS  | __main__:file_downloader:21 - Video downloaded!
+2023-04-17 17:37:11.147 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Ohmwrecker (Supahfast198)\video.mp4
+2023-04-17 17:37:11.889 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Rapid Firecannon\video.mp4
+2023-04-17 17:37:12.563 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Stormrazor [Miscellany]\video.mp4
+2023-04-17 17:37:13.307 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - The Bloodthirster\video.mp4
+2023-04-17 17:37:14.110 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Thornmail\video.mp4
+2023-04-17 17:37:14.918 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - ABC (feat. Sophia Black)\video.mp4
+2023-04-17 17:37:15.752 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Bad\video.mp4
+2023-04-17 17:37:16.641 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Drown (feat. Mateus Asato)\video.mp4
+2023-04-17 17:37:17.466 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Ego Death (Feat. Steve Vai)\video.mp4
+2023-04-17 17:37:18.287 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Neurotica\video.mp4
+2023-04-17 17:37:19.043 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - O.D\video.mp4
+2023-04-17 17:37:19.846 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Rich Kids (Feat. Yvette Young)\video.mp4
+2023-04-17 17:37:20.592 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Saucy\video.mp4
+2023-04-17 17:37:21.394 | ERROR    | __main__:file_downloader:26 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Yas\video.mp4
+2023-04-17 17:41:55.750 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\10. Blade of the Ruined King\video.mp4
+2023-04-17 17:41:56.511 | INFO     | __main__:file_downloader:20 - Downloading mv for 3. Tear of the Goddess
+2023-04-17 17:41:59.448 | SUCCESS  | __main__:file_downloader:23 - Video downloaded!
+2023-04-17 17:42:01.250 | INFO     | __main__:file_downloader:20 - Downloading mv for 4. Infinity Edge
+2023-04-17 17:42:16.670 | SUCCESS  | __main__:file_downloader:23 - Video downloaded!
+2023-04-17 17:42:18.497 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\CHON - Can_t Wait\video.mp4
+2023-04-17 17:42:19.179 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\CHON - Splash (XEntombmentX)\video.mp4
+2023-04-17 17:42:19.951 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Don_t Be A Jerk (It_s Christmas) (Beta)\video.mp4
+2023-04-17 17:42:20.649 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Ichika - Bloom\video.mp4
+2023-04-17 17:42:21.438 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Dead Man_s Plate\video.mp4
+2023-04-17 17:42:22.092 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Ohmwrecker (Supahfast198)\video.mp4
+2023-04-17 17:42:23.004 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Rapid Firecannon\video.mp4
+2023-04-17 17:42:23.669 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Stormrazor [Miscellany]\video.mp4
+2023-04-17 17:42:24.382 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - The Bloodthirster\video.mp4
+2023-04-17 17:42:25.114 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Thornmail\video.mp4
+2023-04-17 17:42:25.975 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - ABC (feat. Sophia Black)\video.mp4
+2023-04-17 17:42:26.929 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Bad\video.mp4
+2023-04-17 17:42:27.689 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Drown (feat. Mateus Asato)\video.mp4
+2023-04-17 17:42:28.636 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Ego Death (Feat. Steve Vai)\video.mp4
+2023-04-17 17:42:29.430 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Neurotica\video.mp4
+2023-04-17 17:42:30.189 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - O.D\video.mp4
+2023-04-17 17:42:31.016 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Rich Kids (Feat. Yvette Young)\video.mp4
+2023-04-17 17:42:31.853 | ERROR    | __main__:file_downloader:28 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Saucy\video.mp4
+2023-04-17 17:42:35.718 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\10. Blade of the Ruined King\video.mp4
+2023-04-17 17:42:36.520 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\3. Tear of the Goddess\video.mp4
+2023-04-17 17:42:37.371 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\4. Infinity Edge\video.mp4
+2023-04-17 17:42:38.226 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\CHON - Can_t Wait\video.mp4
+2023-04-17 17:42:38.972 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\CHON - Splash (XEntombmentX)\video.mp4
+2023-04-17 17:42:39.775 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Don_t Be A Jerk (It_s Christmas) (Beta)\video.mp4
+2023-04-17 17:42:40.565 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Ichika - Bloom\video.mp4
+2023-04-17 17:42:41.338 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Dead Man_s Plate\video.mp4
+2023-04-17 17:42:41.954 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Ohmwrecker (Supahfast198)\video.mp4
+2023-04-17 17:42:42.662 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Rapid Firecannon\video.mp4
+2023-04-17 17:42:43.339 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Stormrazor [Miscellany]\video.mp4
+2023-04-17 17:42:44.081 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - The Bloodthirster\video.mp4
+2023-04-17 17:42:44.828 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Pentakill - Thornmail\video.mp4
+2023-04-17 17:42:45.621 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - ABC (feat. Sophia Black)\video.mp4
+2023-04-17 17:42:46.402 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Bad\video.mp4
+2023-04-17 17:42:47.248 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Drown (feat. Mateus Asato)\video.mp4
+2023-04-17 17:42:48.144 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Ego Death (Feat. Steve Vai)\video.mp4
+2023-04-17 17:42:48.922 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Neurotica\video.mp4
+2023-04-17 17:42:49.647 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - O.D\video.mp4
+2023-04-17 17:42:50.423 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Rich Kids (Feat. Yvette Young)\video.mp4
+2023-04-17 17:42:51.222 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Saucy\video.mp4
+2023-04-17 17:42:51.982 | ERROR    | __main__:file_downloader:27 - File already exists! at C:\Users\Thiago\Documents\Clone Hero\Songs\Polyphia - Yas\video.mp4
